@@ -46,10 +46,10 @@
 
 <p align="center">
   <a href="https://github.com/manaskashyap2564?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manaskashyap2564&repo=Awesome-IoT-Project&theme=radical" alt="Awesome IoT Project"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manaskashyap2564&repo=leetcodePractice&theme=radical" alt="Awesome IoT Project"/>
   </a>
   <a href="https://github.com/manaskashyap2564?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manaskashyap2564&repo=ML-Theory-Summaries&theme=radical" alt="ML Theory Summaries"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manaskashyap2564&repo=project&theme=radical" alt="ML Theory Summaries"/>
   </a>
 </p>
 
